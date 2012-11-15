@@ -8,11 +8,8 @@ ZSH=$HOME/.oh-my-zsh
 #ZSH_THEME="minimal"
 ZSH_THEME="af-magic-two"
 
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-alias santa='ssh lee@lee.citizennet.com'
-alias rack1='ssh lee@citizennet.com'
+# include aliases
+source $HOME/.shellaliases.sh
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
