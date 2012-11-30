@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # for ssh
-alias santa='ssh lee@lee.citizennet.com'
-alias rack1='ssh lee@citizennet.com'
+alias santa='ssh justin@santamonica.citizennet.com'
+alias rack1='ssh justin@rack1.citizennet.com'
 
 # pretty print json
 alias json='python -mjson.tool'
