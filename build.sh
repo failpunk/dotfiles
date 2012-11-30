@@ -15,7 +15,7 @@ if [ -d /tmp/dotfiles ]; then
 fi
 
 echo "Cloning dotfiles..."
-git clone https://github.com/theoreticaLee/dotfiles.git
+git clone https://github.com/failpunk/dotfiles.git
 cd dotfiles
 
 echo "Installing submodules..."
