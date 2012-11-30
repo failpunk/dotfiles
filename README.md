@@ -1,4 +1,4 @@
-# Lee's Dotfiles
+# My Damn Dotfiles
 
 ## Prerequisites
 * OS X or Linux
