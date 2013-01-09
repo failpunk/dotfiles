@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # files to install
 files=(".ctags" ".gitconfig" ".gitignore_global" ".shellaliases.sh" ".vim" ".vimrc" ".zshrc" ".oh-my-zsh")
