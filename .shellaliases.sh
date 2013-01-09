@@ -21,6 +21,11 @@ alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
 alias gpull='git pull origin'
 alias greset='git reset --hard HEAD | git clean -fd'
 
+# shell stuff
+alias ll='ls -l'
+alias lla='ls -al'
+alias grepp='grep -inr '
+
 # terminal color
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
