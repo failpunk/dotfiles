@@ -29,3 +29,5 @@ alias grepp='grep -inr '
 # terminal color
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
+
+alias phpunit='clear;phpunit --colors'
