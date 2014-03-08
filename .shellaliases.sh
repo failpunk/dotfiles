@@ -31,3 +31,4 @@ export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 
 alias phpunit='clear;phpunit --colors'
+alias phpserver='php -S localhost:4000'
