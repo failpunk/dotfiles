@@ -21,6 +21,17 @@ alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
 alias gpull='git pull origin'
 alias greset='git reset --hard HEAD | git clean -fd'
 
+# mercurial...lol
+alias hs='hg status'
+alias hlog='hg log --limit 3 '
+alias hc='hg commit'
+alias hb='hg branch'
+alias hbs='hg branches'
+alias hi='hg id'
+alias hpull='hg pull'
+alias hp='hg push'
+alias hu='hg up -r '
+
 # shell stuff
 alias ll='ls -l'
 alias lla='ls -al'
